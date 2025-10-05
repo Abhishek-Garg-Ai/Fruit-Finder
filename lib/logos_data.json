@@ -1,0 +1,92 @@
+[
+  {
+    "name": "TensorFlow",
+    "image": "logos/tensorflow.png",
+    "alt": ["tensorflow"]
+  },
+  {
+    "name": "PyTorch",
+    "image": "logos/pytorch.png",
+    "alt": ["pytorch"]
+  },
+  {
+    "name": "OpenAI",
+    "image": "logos/openai.png",
+    "alt": ["openai"]
+  },
+  {
+    "name": "AWS Lambda",
+    "image": "logos/aws-lambda.png",
+    "alt": ["lambda"]
+  },
+  {
+    "name": "Amazon S3",
+    "image": "logos/amazon-s3.png",
+    "alt": ["s3"]
+  },
+  {
+    "name": "SageMaker",
+    "image": "logos/sagemaker.png",
+    "alt": ["sagemaker"]
+  },
+  {
+    "name": "Tableau",
+    "image": "logos/tableau.png",
+    "alt": ["tableau"]
+  },
+  {
+    "name": "Power BI",
+    "image": "logos/powerbi.png",
+    "alt": ["powerbi", "power bi"]
+  },
+  {
+    "name": "Snowflake",
+    "image": "logos/snowflake.png",
+    "alt": ["snowflake"]
+  },
+  {
+    "name": "Python",
+    "image": "logos/python.png",
+    "alt": ["python"]
+  },
+  {
+    "name": "Java",
+    "image": "logos/java.png",
+    "alt": ["java"]
+  },
+  {
+    "name": "JavaScript",
+    "image": "logos/javascript.png",
+    "alt": ["javascript", "js"]
+  },
+  {
+    "name": "Keras",
+    "image": "logos/keras.png",
+    "alt": ["keras"]
+  },
+  {
+    "name": "Hugging Face",
+    "image": "logos/huggingface.png",
+    "alt": ["huggingface", "hugging face"]
+  },
+  {
+    "name": "NVIDIA",
+    "image": "logos/nvidia.png",
+    "alt": ["nvidia"]
+  },
+  {
+    "name": "DynamoDB",
+    "image": "logos/dynamodb.png",
+    "alt": ["dynamodb"]
+  },
+  {
+    "name": "Apache Spark",
+    "image": "logos/apache-spark.png",
+    "alt": ["spark", "apache spark"]
+  },
+  {
+    "name": "Redshift",
+    "image": "logos/redshift.png",
+    "alt": ["redshift"]
+  }
+]
